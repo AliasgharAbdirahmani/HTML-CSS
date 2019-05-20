@@ -1,3 +1,23 @@
-#myHeader1{
-	color: red;
+body {
+    text-align: center;
+    background: url("https://images0.pixlis.com/background-image-checkers-chequered-checkered-squares-seamless-tileable-mountain-mist-persian-green-236kej.png");
+    background-size: cover;
+    background-position: center;
+    color: darkblue;
+    font-family: sans-serif;
 }
+
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+}
+
+input[type="submit"] {
+  background: red;
+  color: white;
+}
+
+img {
+    border-radius: 50%;
+  }
